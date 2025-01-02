@@ -9,7 +9,6 @@
   "private": true,
   "scripts": {
     "start": "wrangler dev",
-    "publish": "wrangler publish",
     "deploy": "wrangler deploy"
   },
   "dependencies": {

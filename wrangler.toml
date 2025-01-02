@@ -3,6 +3,6 @@ main = "src/index.js"
 compatibility_date = "2022-05-13"
 
 kv_namespaces = [
-  { binding = "NOTES", id = "serverless-cloud-notepad-NOTES" },
-  { binding = "SHARE", id = "serverless-cloud-notepad-SHARE" }
+  { binding = "serverless-cloud-notepad-NOTES", id = "f436aecd155543c7a97a128139854ead" },
+  { binding = "serverless-cloud-notepad-SHARE", id = "7393e5170edb46ea99285cab743a078a" }
 ]
